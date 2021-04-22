@@ -1,8 +1,10 @@
 ### 1. Github dùng để làm gì?  
-
+Github là một trang web cho phép bạn lưu source code của mình lên đó và chia sẻ chúng với các thành viên khác. Nó có thể đồng bộ code giữa các thành viên trong team và bạn có thể thay đổi đoạn code của mình mọi lúc mọi nơi cũng như khôi phục được code của mình về một thời điểm bất kỳ nào đó.
 ### 2. Repository là gì?  
-Repository hay được gọi tắt là Repo, đơn giản là nơi chứa tất cả những thông tin cần thiết để duy trì và quản lý các sửa đổi và lịch sử của toàn bộ project. Trong Repo có 2 cấu trúc dữ liệu chính là Object Store và Index. Tất cả dữ liệu của Repo đèu được chứa trong thư mục bạn đang làm việc dưới dạng folder ẩn có tên là .git
+Repository hay được gọi tắt là Repo, là nơi chứa tất cả những thông tin cần thiết để duy trì và quản lý các sửa đổi và lịch sử của toàn bộ dự án.
 ### 3. Fork repo (DATAcracy) nhằm mục đích gì?  
-Fork repo: là hành động một người dùng khác copy một bản sao của repo về kho của họ. Trước khi tham gia vào một dự án của người khác thì bạn sẽ fork repo của họ và kho của mình nếu như người khác chưa cho phép bạn trở thành thành viên.
+Fork repo: là hành động một người dùng khác copy một bản sao của repo về kho của họ. Bạn có thể dễ dàng chỉnh sửa, thay đổi source code mà không ảnh hưởng tới source gốc.
 ### 4. Giải thích ý nghĩa của Branch, Commit mesage bạn thấy khi link Colab với Github?  
-Commit: Ghi lại trạng thái thay đổi tại máy local (ví dụ như bạn có thể ấn Save nhiều lần với file README.md nhưng chỉ khi commit thì trạng thái của lần ấn Save cuối cùng trước đó mới được lưu lại) - tương ứng với câu lệnh git commit
+Branch: là những phân nhánh ghi lại luồng thay đổi của lịch sử, các hoạt động trên mỗi branch sẽ không ảnh hưởng lên các branch khác nên có thể tiến hành nhiều thay đổi đồng thời trên một repository, giúp giải quyết được nhiều nhiệm vụ cùng lúc.
+Commit: Là thao tác để lưu lại trạng thái hiện tại trên hệ thống, ghi nhận lại lịch sử các xử lý: thêm, xóa, cập nhật các file hay thư mục trên repository
+Commit mesage: mô tả các mục đính của thay đổi, giúp người khác hiểu về những sự thay đổi và giúp cho việc khắc phục sự cố cũng như gở lỗi trở nên dễ dàng hơn
