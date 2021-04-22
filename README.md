@@ -7,4 +7,4 @@
 ### 4. Giải thích ý nghĩa của Branch, Commit mesage bạn thấy khi link Colab với Github?  
 - *Branch*: là những phân nhánh ghi lại luồng thay đổi của lịch sử, các hoạt động trên mỗi branch sẽ không ảnh hưởng lên các branch khác nên có thể tiến hành nhiều thay đổi đồng thời trên một repository, giúp giải quyết được nhiều nhiệm vụ cùng lúc.  
 - *Commit*: Là thao tác để lưu lại trạng thái hiện tại trên hệ thống, ghi nhận lại lịch sử các xử lý: thêm, xóa, cập nhật các file hay thư mục trên repository  
-- *Commit mesage*: mô tả các mục đính của thay đổi, giúp người khác hiểu về những sự thay đổi và giúp cho việc khắc phục sự cố cũng như gở lỗi trở nên dễ dàng hơn  
+- *Commit mesage*: mô tả các mục đính của thay đổi, giúp người khác hiểu về những thay đổi cũng như giúp cho việc khắc phục sự cố (gở lỗi) trở nên dễ dàng hơn  
