@@ -5,6 +5,6 @@ Repository hay được gọi tắt là Repo, là nơi chứa tất cả những
 ### 3. Fork repo (DATAcracy) nhằm mục đích gì?  
 Fork repo: là hành động một người dùng khác copy một bản sao của repo về kho của họ. Bạn có thể dễ dàng chỉnh sửa, thay đổi source code mà không ảnh hưởng tới source gốc.
 ### 4. Giải thích ý nghĩa của Branch, Commit mesage bạn thấy khi link Colab với Github?  
-*Branch*: là những phân nhánh ghi lại luồng thay đổi của lịch sử, các hoạt động trên mỗi branch sẽ không ảnh hưởng lên các branch khác nên có thể tiến hành nhiều thay đổi đồng thời trên một repository, giúp giải quyết được nhiều nhiệm vụ cùng lúc.  
-*Commit*: Là thao tác để lưu lại trạng thái hiện tại trên hệ thống, ghi nhận lại lịch sử các xử lý: thêm, xóa, cập nhật các file hay thư mục trên repository  
-*Commit mesage*: mô tả các mục đính của thay đổi, giúp người khác hiểu về những sự thay đổi và giúp cho việc khắc phục sự cố cũng như gở lỗi trở nên dễ dàng hơn  
+- *Branch*: là những phân nhánh ghi lại luồng thay đổi của lịch sử, các hoạt động trên mỗi branch sẽ không ảnh hưởng lên các branch khác nên có thể tiến hành nhiều thay đổi đồng thời trên một repository, giúp giải quyết được nhiều nhiệm vụ cùng lúc.  
+- *Commit*: Là thao tác để lưu lại trạng thái hiện tại trên hệ thống, ghi nhận lại lịch sử các xử lý: thêm, xóa, cập nhật các file hay thư mục trên repository  
+- *Commit mesage*: mô tả các mục đính của thay đổi, giúp người khác hiểu về những sự thay đổi và giúp cho việc khắc phục sự cố cũng như gở lỗi trở nên dễ dàng hơn  
